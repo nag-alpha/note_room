@@ -1,0 +1,22 @@
+body {
+  background: black;
+  font-family: 'Brush Script MT', cursive;
+  
+}
+
+.white {
+  text-align: center;
+  color: white;
+
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  line-height: 2.3rem;
+  
+}
+a:active {
+  text-decoration: underline;
+}
