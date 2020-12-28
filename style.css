@@ -1,0 +1,55 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: 100%vw;
+  height: 100%vh;
+  list-style: none;
+  font-family: "Baloo 2", cursive;
+  overflow: hidden;
+  background: black;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  /* border: 2px solid red; */
+  align-self: center;
+  font-size: 1.3em;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-left: 7em;
+}
+li {
+  margin-right: 0.7em;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+}
+.underline1 {
+  padding-bottom: 1px;
+  border-bottom: 4px solid yellow;
+}
+
+main{
+    width: 90%;
+    border: 2px solid red;
+    margin: auto;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: yellow;
+  font-size: 100px;
+ 
+  
+    
+}
