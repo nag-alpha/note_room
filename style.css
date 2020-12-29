@@ -30,10 +30,11 @@ ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-  margin-left: 7em;
+  margin-left: 25em;
+  
 }
 li {
-  margin-right: 0.7em;
+  /* margin-right: 4em; */
 }
 sup {
   font-size: 10px;
@@ -46,6 +47,7 @@ sup {
   background-color: black;
 }
 .underline1 {
+  margin-right: 2em;
   color: yellow;
   padding-bottom: 1px;
   border-bottom: 4px solid yellow;
